@@ -6,6 +6,13 @@
 * 21st Century Integrated Digital Experience Act
 * Section 508 of the Rehabilitation Act
 
+</br>
+
+![logo-salesforce](https://user-images.githubusercontent.com/104940944/171901032-58174dd2-25b2-4208-a256-1e7e06e440ed.svg)
+* Experience Cloud Site
+* Salesforce Tabs + Visualforce Site
+* Experience Builder Site, Template, Theme, Page
+
 ## Setup
 1. Intiate design system with the following assets: **site_template**, **VAuswds**
 2. Review and confirm org permissions and configurations
