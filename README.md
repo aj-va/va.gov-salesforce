@@ -22,7 +22,7 @@
 2. Upload assests into your developer org: ```site_template``` ```VAuswds```
 3. Review org permissions and Experience site configurations
 
-## Putting it all together
+## Build
 * Compile and include application
 * Create pages
 * Customize web components
