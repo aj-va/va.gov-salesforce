@@ -33,5 +33,4 @@ Password component
 ## Publish
 Visit public URL to preview site
 
-
-#### Example: [Compassionate Care Innovation](https://ccidev-vacommunity.cs133.force.com/ccisubmissionportal)
+**[Example](https://ccidev-vacommunity.cs133.force.com/ccisubmissionportal)**
