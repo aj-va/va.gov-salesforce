@@ -23,7 +23,7 @@
 3. Review org permissions and Experience site configurations
 
 ## Putting it all together
-* Include application
+* Compile and include application
 * Create pages
 * Customize web components
 * Apply agency theme
