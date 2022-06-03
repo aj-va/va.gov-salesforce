@@ -6,12 +6,12 @@
 * 21st Century Integrated Digital Experience Act
 * Section 508 of the Rehabilitation Act
 
-## Start
-1. Intiate design system with the assets: **site_template**, **VAuswds**
+## Setup
+1. Intiate design system with the following assets: **site_template**, **VAuswds**
 2. Review and confirm org permissions and configurations
 
 ## Build
-1. Activate Experience Cloud site
+1. Activate site
 2. Develop custom pages
 3. Build web components
 
