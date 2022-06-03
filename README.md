@@ -39,10 +39,11 @@ Password component
       type="password"
       required
     />
-    
 ```
 
 ## Publish
-Visit public URL to preview site
+Visit public URL to preview site: **[example](https://ccidev-vacommunity.cs133.force.com/ccisubmissionportal)**
+    
+<img width="1204" alt="page" src="https://user-images.githubusercontent.com/104940944/171908116-f3c21a67-b1b7-4dca-9d33-3937f0b40c05.png">
 
-**[Example](https://ccidev-vacommunity.cs133.force.com/ccisubmissionportal)**
+
