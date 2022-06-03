@@ -9,15 +9,18 @@
 ![logo-salesforce](https://user-images.githubusercontent.com/104940944/171901032-58174dd2-25b2-4208-a256-1e7e06e440ed.svg)
 * Experience Cloud Site
 * Salesforce Tabs + Visualforce Site
-* Experience Builder Site, Template, Theme, Page
+* Experience Builder: Site, Template, Theme, Page
 
 ## Setup
-1. Intiate design system with the following assets: **site_template**, **VAuswds**
-2. Review org permissions and site configurations
+1. Download the latest release package
+2. Upload assests into your developer org: **site_template**, **VAuswds**
+3. Review org permissions
+4. Update Experience site configurations
 
 ## Build
 1. Develop custom pages
-2. Build web components
+2. Build with web components
+3. Customize with agency theme
 
 ```
 Password component
