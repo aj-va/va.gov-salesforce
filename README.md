@@ -7,7 +7,7 @@
 * Section 508 of the Rehabilitation Act
 
 ## Start
-1. Intiate design system by uploading the following files: site_template.page, VAuswds.resource
+1. Intiate design system with the following aassets: site_template, VAuswds
 2. Confirm org permissions
 
 ## Build
