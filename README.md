@@ -5,22 +5,28 @@
 * [VA.gov](https://www.va.gov/) web presence
 * 21st Century Integrated Digital Experience Act
 * Section 508 of the Rehabilitation Act
+* Built for flexibility
 
 ![logo-salesforce](https://user-images.githubusercontent.com/104940944/171901032-58174dd2-25b2-4208-a256-1e7e06e440ed.svg)
-* Experience Cloud Site
-* Salesforce Tabs + Visualforce Site
-* Experience Builder: Site, Template, Theme, Page
+| Community Cloud      | Experience Cloud |
+| ----------- | ----------- |
+| Community      | Site or Experience Cloud Site       |
+| Lighting Community   | Experience Builder Site        |
+| Salesforce Tabs + Visualforce Community   | Salesforce Tabs + Visualforce Site        |
+| Lighting  Community Template   | Experience Builder Template        |
+| Lighting  Community Theme   | Experience Builder Theme       |
+| Lighting  Community Page   | Experience Builder Page        |
 
 ## Setup
 1. Download the latest release package
-2. Upload assests into your developer org: **site_template**, **VAuswds**
-3. Review org permissions
-4. Update Experience site configurations
+2. Upload assests into your developer org: ```site_template``` ```VAuswds```
+3. Review org permissions and Experience site configurations
 
-## Build
-1. Develop custom pages
-2. Build with web components
-3. Customize with agency theme
+## Putting it all together
+* Include application
+* Create pages
+* Customize web components
+* Apply agency theme
 
 ```
 Password component
@@ -35,7 +41,6 @@ Password component
     />
     
 ```
-
 
 ## Publish
 Visit public URL to preview site
