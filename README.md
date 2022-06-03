@@ -7,8 +7,8 @@
 * Section 508 of the Rehabilitation Act
 
 ## Start
-1. Intiate design system with the following aassets: site_template, VAuswds
-2. Confirm org permissions
+1. Intiate design system with **site_template**, **VAuswds** assets
+2. Review and confirm org permissions and configurations
 
 ## Build
 1. Activate site
@@ -16,21 +16,8 @@
 3. Use web components
 
 ```
-Sign-in form component
+Example Password component
 
-<form class="usa-form">
-  <fieldset class="usa-fieldset">
-    <legend class="usa-legend usa-legend--large">Access your account</legend>
-    <label class="usa-label" for="email">Email address</label>
-    <input
-      class="usa-input"
-      id="email"
-      name="email"
-      type="email"
-      autocapitalize="off"
-      autocorrect="off"
-      required
-    />
     <label class="usa-label" for="password-sign-in">Password</label>
     <input
       class="usa-input"
@@ -39,23 +26,6 @@ Sign-in form component
       type="password"
       required
     />
-    <p class="usa-form__note">
-      <a
-        title=""
-        href=""
-        class="usa-show-password"
-        aria-controls=""
-        data-show-text="Show password"
-        data-hide-text="Hide password"
-        >Show password</a
-      >
-    </p>
-    <input class="usa-button" type="submit" value="Sign in" />
-    <p>
-      <a href="javascript:void()" title="Forgot password">Forgot password?</a>
-    </p>
-  </fieldset>
-</form>
     
 ```
 
