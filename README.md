@@ -7,12 +7,12 @@
 * Section 508 of the Rehabilitation Act
 
 ## Start
-1. Intiate design system with **site_template**, **VAuswds** assets
+1. Intiate design system with the assets: **site_template**, **VAuswds**
 2. Review and confirm org permissions and configurations
 
 ## Build
-1. Activate site
-2. Create custom pages
+1. Activate Experience Cloud site
+2. Develop custom pages
 3. Build web components
 
 ```
