@@ -13,10 +13,10 @@
 ## Build
 1. Activate site
 2. Create custom pages
-3. Use web components
+3. Build web components
 
 ```
-Example Password component
+Password component
 
     <label class="usa-label" for="password-sign-in">Password</label>
     <input
