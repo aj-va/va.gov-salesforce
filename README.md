@@ -7,7 +7,7 @@
 * Section 508 of the Rehabilitation Act
 
 ## Start
-1. Reference design system
+1. Intiate design system by uploading the following files: site_template.page, VAuswds.resource
 2. Confirm org permissions
 
 ## Build
@@ -15,5 +15,53 @@
 2. Create custom pages
 3. Use web components
 
+```
+Sign-in form component
+
+<form class="usa-form">
+  <fieldset class="usa-fieldset">
+    <legend class="usa-legend usa-legend--large">Access your account</legend>
+    <label class="usa-label" for="email">Email address</label>
+    <input
+      class="usa-input"
+      id="email"
+      name="email"
+      type="email"
+      autocapitalize="off"
+      autocorrect="off"
+      required
+    />
+    <label class="usa-label" for="password-sign-in">Password</label>
+    <input
+      class="usa-input"
+      id="password-sign-in"
+      name="password"
+      type="password"
+      required
+    />
+    <p class="usa-form__note">
+      <a
+        title=""
+        href=""
+        class="usa-show-password"
+        aria-controls=""
+        data-show-text="Show password"
+        data-hide-text="Hide password"
+        >Show password</a
+      >
+    </p>
+    <input class="usa-button" type="submit" value="Sign in" />
+    <p>
+      <a href="javascript:void()" title="Forgot password">Forgot password?</a>
+    </p>
+  </fieldset>
+</form>
+    
+```
+
+
 ## Publish
 Visit public URL to preview site
+
+
+#### Example: [Compassionate Care Innovation](https://ccidev-vacommunity.cs133.force.com/ccisubmissionportal)
