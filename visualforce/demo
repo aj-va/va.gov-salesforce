@@ -1,0 +1,14 @@
+<apex:component>
+
+    <section id="test-section-id" class="usa-section margin-top-2 margin-bottom-10">
+      <div class="grid-container">
+        <h2 class="font-heading-xl margin-y-0">Providing Health Care for Veterans</h2>
+        <p class="usa-intro">
+          The Veterans Health Administration is America’s largest integrated health care system, providing care at 1,298 health care facilities, including 171 medical centers and 1,113 outpatient sites of care of varying complexity (VHA outpatient clinics), serving 9 million enrolled Veterans each year.
+
+        </p>
+        <a class="usa-button usa-button--big" href="">Learn more</a>
+      </div>
+    </section>
+    
+</apex:component>

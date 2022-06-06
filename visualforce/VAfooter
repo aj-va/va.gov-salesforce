@@ -1,0 +1,19 @@
+<apex:component>
+
+    <section
+      class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+      <div class="usa-identifier__container">
+        <div class="usa-identifier__logos">
+          <a href="javascript:void(0)" class="usa-identifier__logo"
+            ><img
+              class="usa-identifier__logo-img"
+              src="{!URLFOR($Resource.VAuswds, 'VAuswds/img/va-logo-white.png')}"
+              alt="VA logo white"
+              role="img"
+          /></a>
+        </div>
+      </div>
+    </section>
+    <script type="text/javascript" src="{!URLFOR($Resource.VAuswds,'VAuswds/js/uswds.min.js')}"></script>
+
+</apex:component>

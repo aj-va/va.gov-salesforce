@@ -1,0 +1,80 @@
+<!-- VA.gov frontend template with fundamental elements-->
+<!-- Created on 06/08/2022 -->
+
+<apex:page docType="html-5.0" applyBodyTag="false" applyHtmlTag="false" standardStylesheets="false"  showHeader="false" sidebar="false">
+    <html>
+    <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="HandheldFriendly" content="True"/>
+    <meta name="MobileOptimized" content="320"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Metatags. -->
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://www.va.gov/health-care/apply/application/"/>
+
+    <!-- Url -->
+    <meta property="og:url" content="https://www.va.gov/health-care/apply/application/"/>
+
+    <!-- Type -->
+    <meta property="og:type" content="website"/>
+        
+    <!-- Site_name -->
+    <meta property="og:site_name" content="Veterans Affairs"/>
+
+    <!-- Title -->
+    <meta property="og:title" content="Apply For Health Care | Veterans Affairs"/>
+
+    <!-- Twitter metatags -->
+    <meta name="twitter:title" content="Apply For Health Care | Veterans Affairs"/>
+
+    <meta name="twitter:card" content="Summary"/>
+    <meta name="twitter:image" content="https://www.va.gov/img/design/logo/va-og-twitter-image.png"/>
+    <meta name="twitter:site" content="@DeptVetAffairs"/>
+
+    <!-- Meta description tags -->
+    <meta content="Apply for VA health care benefits. Find out which documents you&#x2019;ll need, and start your online application today." property="og:description"/>
+    <meta content="Apply for VA health care benefits. Find out which documents you&#x2019;ll need, and start your online application today." name="twitter:description"/>
+    <meta content="Apply for VA health care benefits. Find out which documents you&#x2019;ll need, and start your online application today." name="description"/>
+
+    <!-- Image -->
+    <meta content="https://www.va.gov/img/design/logo/va-og-image.png" property="og:image"/>
+    <title>CCI Submission Portal</title>
+    <script type="text/javascript" src="{!URLFOR($Resource.VAuswds,'VAuswds/js/uswds-init.min.js')}"></script>
+    
+    <!-- Icons -->
+    <link href="{!URLFOR($Resource.VAuswds, 'VAuswds/img/favicons/apple-touch-icon.png')}" rel="apple-touch-icon-precomposed"/>
+    <link href="{!URLFOR($Resource.VAuswds, 'VAuswds/img/favicons/apple-touch-icon-72x72.png')}" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+    <link href="{!URLFOR($Resource.VAuswds, 'VAuswds/img/favicons/apple-touch-icon-114x114.png')}" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+    <link href="{!URLFOR($Resource.VAuswds, 'VAuswds/img/favicons/apple-touch-icon-152x152.png')}" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+    <link rel="shortcut icon" href="{!URLFOR($Resource.VAuswds, 'VAuswds/img/favicons/favicon.ico')}" type="image"/>
+    
+    <!-- Assets -->
+    <meta name="msapplication-TileImage" content="{!URLFOR($Resource.VAuswds, 'VAuswds/img/favicons/apple-touch-icon-114x114.png')}"/>
+    <meta name="msapplication-TileColor" content="#144073"/>
+    <link rel="stylesheet" href="{!URLFOR($Resource.VAuswds, 'VAuswds/css/uswds.min.css')}" />
+    <link rel="stylesheet" href="{!URLFOR($Resource.VAuswds, 'VAuswds/css/template.css')}" />
+    </head>
+    <body>
+    
+    <!--Page Header-->
+    <c:VAheader/>
+    
+    <!--Page Body-->
+    <main id="main-content">
+    
+    <!--demo-->
+    <c:VAdemo/>     
+         
+    </main>
+    
+    <!--Page Footer-->
+    <c:VAfooter/>
+    
+    </body>
+    </html>
+</apex:page>
