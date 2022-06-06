@@ -6,8 +6,6 @@
 * Section 508 of the Rehabilitation Act
 * Built for flexibility
 
-</br>
-
 <img width="1191" alt="va header" src="https://user-images.githubusercontent.com/104940944/171872105-9676d357-4a29-4427-9dfa-4f4d846f75be.png">
 
 ## Setup
@@ -32,5 +30,4 @@ Form component
 Visit public URL to preview site: **[example](https://ccidev-vacommunity.cs133.force.com/ccisubmissionportal)**
     
 <img width="1204" alt="page" src="https://user-images.githubusercontent.com/104940944/171908116-f3c21a67-b1b7-4dca-9d33-3937f0b40c05.png">
-
 
