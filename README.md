@@ -17,8 +17,7 @@
 
 * Include application
 * Create pages
-* Customize web components
-* Apply theme
+* **[Web components](https://vawds-dev-ed.my.site.com/starter/template)**
 * **[Starter template](https://vawds-dev-ed.my.site.com/starter/template)**
 * **[Starter site](https://github.com/aj-va/va.gov-salesforce)** (available in the next release)
 * **[Experience Cloud resources](https://salesforce-experiencecloud.github.io/)**
