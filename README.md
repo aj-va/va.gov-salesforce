@@ -4,11 +4,9 @@
 
 <img width="301" alt="VA logo" src="https://user-images.githubusercontent.com/104940944/172231024-5c3b2837-04b5-485e-9845-3164fb7548f6.png">
 
-* Modern U.S. federal government web standards
-* **[VA.gov](https://www.va.gov/)** web presence
 * 21st Century Integrated Digital Experience Act
 * Section 508 of the Rehabilitation Act
-* Built for Salesforce applications
+* **[VA.gov](https://www.va.gov/)** on the Salesforce platform
 
 ## Setup
 * Download the latest release package
