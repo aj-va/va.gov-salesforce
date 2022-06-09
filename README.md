@@ -4,6 +4,7 @@
 
 <img width="301" alt="VA logo" src="https://user-images.githubusercontent.com/104940944/172231024-5c3b2837-04b5-485e-9845-3164fb7548f6.png">
 
+* Design principles are intended to help teams across government align on common goals
 * 21st Century Integrated Digital Experience Act
 * Section 508 of the Rehabilitation Act
 * **[VA.gov](https://www.va.gov/)** on the Salesforce platform
