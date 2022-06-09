@@ -1,8 +1,7 @@
-<apex:component>
+<apex:component >
 
-    <section
-      class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
-      <div class="usa-identifier__container">
+    <section class="usa-identifier__section usa-identifier__section--masthead" aria-label="Agency identifier">
+      <div class="usa-identifier__container margin-top-2">
         <div class="usa-identifier__logos">
           <a href="javascript:void(0)" class="usa-identifier__logo"
             ><img
@@ -13,7 +12,24 @@
           /></a>
         </div>
       </div>
+      <div class="usa-identifier__container">
+      <div class="usa-grid usa-grid-full va-footer-links-bottom">
+        <ul>
+        <li><a href="https://www.section508.va.gov" rel="noopener noreferrer">Accessibility</a></li>
+        <li><a href="https://www.va.gov/resources/your-civil-rights-and-how-to-file-a-discrimination-complaint/">Civil Rights</a></li>
+        <li><a href="https://www.va.gov/foia/">Freedom of Information Act (FOIA)</a></li><li><a href="https://www.va.gov/oig/">Office of Inspector General</a></li>
+        <li><a href="https://www.va.gov/opa/Plain_Language.asp">Plain language</a></li>
+        <li><a href="https://www.va.gov/privacy-policy/">Privacy, policies, and legal information</a></li>
+        <li><a href="https://www.va.gov/privacy/">VA Privacy Service</a></li>
+        <li><a href="https://www.va.gov/ormdi/NOFEAR_Select.asp">No FEAR Act Data</a></li>
+        <li><a href="https://www.usa.gov/" target="_blank" rel="noopener noreferrer">USA.gov</a></li>
+        <li><a href="https://www.va.gov/performance-dashboard/">VA performance dashboard</a></li>
+        <li><a href="https://www.va.gov/veterans-portrait-project/">Veterans Portrait Project</a></li>
+        </ul>
+      </div>
+      </div>
     </section>
+    
     <script type="text/javascript" src="{!URLFOR($Resource.VAuswds,'VAuswds/js/uswds.min.js')}"></script>
 
 </apex:component>
