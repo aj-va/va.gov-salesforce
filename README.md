@@ -19,6 +19,7 @@
 * Customize web components
 * Apply theme
 * **[Starter template](https://vawds-dev-ed.my.site.com/starter/template)**
+* **[Starter site](https://github.com/aj-va/va.gov-salesforce)** (available in the next release)
 * **[Experience Cloud resources](https://salesforce-experiencecloud.github.io/)**
 
 ## Publish
