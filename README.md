@@ -8,10 +8,11 @@
 * 21st Century Integrated Digital Experience Act
 * Section 508 of the Rehabilitation Act
 * **[VA.gov](https://www.va.gov/)** on the Salesforce platform
+* [VA.gov Design System reference site](https://design.va.gov/)
 
 ## Setup
 * Download the latest release package
-* Upload assests and configure your developer org. See **[installation](https://github.com/aj-va/va.gov-salesforce/blob/main/Installation.md)**
+* Upload assests and configure your developer org. See **[installation](https://github.com/aj-va/va.gov-salesforce/blob/main/INSTALLATION.md)**
 
 ## Build
 
