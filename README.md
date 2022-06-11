@@ -11,7 +11,7 @@
 
 ## Setup
 * Download the latest release package
-* Upload assests and configure your developer org. See **[installation](https://github.com/aj-va/va.gov-salesforce/blob/main/Installation.md)**
+* Upload assests and configure your developer org. See **[installation](https://github.com/aj-va/va.gov-salesforce/blob/main/INSTALLATION.md)**
 
 ## Build
 
