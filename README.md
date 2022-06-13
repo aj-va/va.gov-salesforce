@@ -23,6 +23,6 @@
 * **[Experience Cloud resources](https://salesforce-experiencecloud.github.io/)**
 
 ## Publish
-Save, publish, visit public URL
+Publish and preview. Utilize Page Optimizer to measure performance.
 
 <img width="75" alt="VA logo" src="https://user-images.githubusercontent.com/104940944/172249460-8fd517a9-c0d0-4c9d-b6c7-e6a90408e93a.png">
