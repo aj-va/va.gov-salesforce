@@ -1,0 +1,11 @@
+<aura:component implements="forceCommunity:themeLayout">
+    <c:VAheader/>   
+     <section id="test-section-id" class="usa-section margin-top-0 margin-bottom-10">
+      <div class="grid-container">
+        <div class="slds-col content">
+          {!v.body}
+        </div>
+      </div>
+    </section>
+    <c:VAfooter/>  
+</aura:component>
