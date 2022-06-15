@@ -16,7 +16,7 @@
 * Include application
 * Create pages
 * **[Starter template](https://vawds-dev-ed.my.site.com/starter/template)**
-* **[Starter site](https://vawds-dev-ed.my.site.com/starter/s/)** :sparkles: 
+* **[Starter site](https://vawds-dev-ed.my.site.com/starter/s/)**
 * **[Web components](https://github.com/aj-va/va.gov-salesforce)** (available in Release 3)
 * **[Experience Cloud resources](https://salesforce-experiencecloud.github.io/)**
 
